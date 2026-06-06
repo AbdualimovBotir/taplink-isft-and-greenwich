@@ -1,0 +1,933 @@
+{
+  "site": {
+    "admissionUrl": "https://admission.isft.uz/register",
+    "newsUrl": "https://sam.isft.uz/uz/news/195",
+    "mainSiteUrl": "https://sam.isft.uz/uz",
+    "phone": "55 518-70-70",
+    "phoneLink": "tel:+998555187070",
+    "phoneFull": "+998 55 518-70-70",
+    "address1": {
+      "uz": "Samarqand shahar",
+      "ru": "г. Самарканд",
+      "en": "Samarkand city"
+    },
+    "address2": {
+      "uz": "Mirzo Bedil ko'chasi, 24-uy",
+      "ru": "ул. Мирзо Бедил, 24",
+      "en": "Mirzo Bedil street, 24"
+    },
+    "website": "sam.isft.uz",
+    "websiteUrl": "https://sam.isft.uz",
+    "email": "info@isft.uz",
+    "countdownDate": "2027-09-01T09:00:00"
+  },
+  "hero": {
+    "badge": {
+      "uz": "RASMIY HAMKORLIK 2025",
+      "ru": "ОФИЦИАЛЬНОЕ ПАРТНЁРСТВО 2025",
+      "en": "OFFICIAL PARTNERSHIP 2025"
+    },
+    "title": "DUAL DEGREE",
+    "year": "2026",
+    "subtitle": "ISFT Samarqand × University of Greenwich",
+    "features": [
+      {
+        "icon": "fa-graduation-cap",
+        "text": {
+          "uz": "2 ta xalqaro diplom bir vaqtda",
+          "ru": "2 международных диплома одновременно",
+          "en": "2 international degrees at once"
+        }
+      },
+      {
+        "icon": "fa-globe-americas",
+        "text": {
+          "uz": "Britaniya & O'zbekiston sertifikati",
+          "ru": "Британский и узбекский сертификат",
+          "en": "British & Uzbek certificate"
+        }
+      },
+      {
+        "icon": "fa-briefcase",
+        "text": {
+          "uz": "Global karyera imkoniyatlari",
+          "ru": "Глобальные карьерные возможности",
+          "en": "Global career opportunities"
+        }
+      }
+    ],
+    "ctaText": {
+      "uz": "Ro'yxatdan o'ting",
+      "ru": "Зарегистрироваться",
+      "en": "Register Now"
+    }
+  },
+  "prices": {
+    "title": {
+      "uz": "Kontrakt Narxlari",
+      "ru": "Стоимость Контракта",
+      "en": "Contract Prices"
+    },
+    "items": [
+      {
+        "icon": "fa-user-graduate",
+        "name": {
+          "uz": "Bakalavr dasturlari",
+          "ru": "Бакалавриат",
+          "en": "Bachelor programs"
+        },
+        "note": {
+          "uz": "Ikki diplom uchun bitta to'lov",
+          "ru": "Один платёж за два диплома",
+          "en": "One payment for two degrees"
+        },
+        "amount": "$4,500 / yil"
+      },
+      {
+        "icon": "fa-award",
+        "name": {
+          "uz": "Magistratura",
+          "ru": "Магистратура",
+          "en": "Master's degree"
+        },
+        "note": {
+          "uz": "Har yili 5% ga oshib boradi",
+          "ru": "Ежегодное увеличение на 5%",
+          "en": "5% annual increase"
+        },
+        "amount": "$5,000 / yil"
+      },
+      {
+        "icon": "fa-book-open",
+        "name": {
+          "uz": "Xalqaro Jamg'arma (IFP)",
+          "ru": "Международная программа (IFP)",
+          "en": "International Foundation (IFP)"
+        },
+        "note": {
+          "uz": "1 yillik poydevor dastur",
+          "ru": "1-летняя подготовительная программа",
+          "en": "1-year foundation program"
+        },
+        "amount": "$4,500"
+      }
+    ]
+  },
+  "countdown": {
+    "title": {
+      "uz": "Qabul Boshlanishiga",
+      "ru": "До Начала Приёма",
+      "en": "Admission Starts In"
+    },
+    "subtitle": {
+      "uz": "Ariza topshirish uchun qolgan vaqt",
+      "ru": "Оставшееся время для подачи заявки",
+      "en": "Time remaining to apply"
+    }
+  },
+  "faculties": {
+    "title": {
+      "uz": "Ta'lim Yo'nalishlari",
+      "ru": "Образовательные Программы",
+      "en": "Academic Programs"
+    },
+    "subtitle": {
+      "uz": "ISFT × University of Greenwich qo'shma dasturlari (Dual Degree)",
+      "ru": "Совместные программы ISFT × Университет Гринвич (Dual Degree)",
+      "en": "ISFT × University of Greenwich joint programs (Dual Degree)"
+    },
+    "items": [
+      {
+        "icon": "fa-chart-bar",
+        "title": {
+          "uz": "Buxgalteriya hisobi va moliya",
+          "ru": "Бухгалтерский учёт и финансы",
+          "en": "Accounting and Finance"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "BSc (Hons) — Grinvich universiteti diplomi",
+              "ru": "BSc (Hons) — Диплом Университета Гринвич",
+              "en": "BSc (Hons) — University of Greenwich degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Bakalavr — ISFT O'zbekiston diplomi",
+              "ru": "Бакалавр — Диплом ISFT Узбекистан",
+              "en": "Bachelor — ISFT Uzbekistan degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 3–4 yil",
+              "ru": "Продолжительность: 3–4 года",
+              "en": "Duration: 3–4 years"
+            },
+            "price": "$4,500/yil"
+          }
+        ]
+      },
+      {
+        "icon": "fa-briefcase",
+        "title": {
+          "uz": "Biznes boshqaruvi",
+          "ru": "Управление бизнесом",
+          "en": "Business Management"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "BSc (Hons) — Grinvich universiteti diplomi",
+              "ru": "BSc (Hons) — Диплом Университета Гринвич",
+              "en": "BSc (Hons) — University of Greenwich degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Bakalavr — ISFT O'zbekiston diplomi",
+              "ru": "Бакалавр — Диплом ISFT Узбекистан",
+              "en": "Bachelor — ISFT Uzbekistan degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 3–4 yil",
+              "ru": "Продолжительность: 3–4 года",
+              "en": "Duration: 3–4 years"
+            },
+            "price": "$4,500/yil"
+          }
+        ]
+      },
+      {
+        "icon": "fa-bullhorn",
+        "title": {
+          "uz": "Raqamli marketing va reklama",
+          "ru": "Цифровой маркетинг и реклама",
+          "en": "Digital Marketing & Advertising"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "BSc (Hons) — Grinvich universiteti diplomi",
+              "ru": "BSc (Hons) — Диплом Университета Гринвич",
+              "en": "BSc (Hons) — University of Greenwich degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Bakalavr — ISFT O'zbekiston diplomi",
+              "ru": "Бакалавр — Диплом ISFT Узбекистан",
+              "en": "Bachelor — ISFT Uzbekistan degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 3–4 yil",
+              "ru": "Продолжительность: 3–4 года",
+              "en": "Duration: 3–4 years"
+            },
+            "price": "$4,500/yil"
+          }
+        ]
+      },
+      {
+        "icon": "fa-globe",
+        "title": {
+          "uz": "Xalqaro biznes",
+          "ru": "Международный бизнес",
+          "en": "International Business"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "BSc (Hons) — Grinvich universiteti diplomi",
+              "ru": "BSc (Hons) — Диплом Университета Гринвич",
+              "en": "BSc (Hons) — University of Greenwich degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Bakalavr — ISFT O'zbekiston diplomi",
+              "ru": "Бакалавр — Диплом ISFT Узбекистан",
+              "en": "Bachelor — ISFT Uzbekistan degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 3–4 yil",
+              "ru": "Продолжительность: 3–4 года",
+              "en": "Duration: 3–4 years"
+            },
+            "price": "$4,500/yil"
+          }
+        ]
+      },
+      {
+        "icon": "fa-microchip",
+        "title": {
+          "uz": "Kompyuter muhandisligi",
+          "ru": "Компьютерная инженерия",
+          "en": "Computer Engineering"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "BEng (Hons) — Grinvich universiteti diplomi",
+              "ru": "BEng (Hons) — Диплом Университета Гринвич",
+              "en": "BEng (Hons) — University of Greenwich degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Bakalavr — ISFT O'zbekiston diplomi",
+              "ru": "Бакалавр — Диплом ISFT Узбекистан",
+              "en": "Bachelor — ISFT Uzbekistan degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 3–4 yil",
+              "ru": "Продолжительность: 3–4 года",
+              "en": "Duration: 3–4 years"
+            },
+            "price": "$4,500/yil"
+          }
+        ]
+      },
+      {
+        "icon": "fa-piggy-bank",
+        "title": {
+          "uz": "Moliya va investitsiya banki",
+          "ru": "Финансы и инвестиционный банкинг",
+          "en": "Finance & Investment Banking"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "BSc (Hons) — Grinvich universiteti diplomi",
+              "ru": "BSc (Hons) — Диплом Университета Гринвич",
+              "en": "BSc (Hons) — University of Greenwich degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Bakalavr — ISFT O'zbekiston diplomi",
+              "ru": "Бакалавр — Диплом ISFT Узбекистан",
+              "en": "Bachelor — ISFT Uzbekistan degree"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 3–4 yil",
+              "ru": "Продолжительность: 3–4 года",
+              "en": "Duration: 3–4 years"
+            },
+            "price": "$4,500/yil"
+          }
+        ]
+      },
+      {
+        "icon": "fa-book-reader",
+        "title": {
+          "uz": "Xalqaro Jamg'arma (IFP)",
+          "ru": "Международная фундаментальная программа (IFP)",
+          "en": "International Foundation Program (IFP)"
+        },
+        "programs": [
+          {
+            "name": {
+              "uz": "Ta'lim sertifikati — Grinvich (1-kursga yo'l)",
+              "ru": "Образовательный сертификат Гринвич (путь к 1 курсу)",
+              "en": "Education Certificate — Greenwich (pathway to Year 1)"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "ISFT tayyorgarlik dasturi",
+              "ru": "Подготовительная программа ISFT",
+              "en": "ISFT preparatory program"
+            },
+            "price": ""
+          },
+          {
+            "name": {
+              "uz": "Davomiyligi: 1 yil",
+              "ru": "Продолжительность: 1 год",
+              "en": "Duration: 1 year"
+            },
+            "price": "$4,500"
+          }
+        ]
+      }
+    ]
+  },
+  "fees": {
+    "title": {
+      "uz": "To'lov Jadvali",
+      "ru": "График Оплаты",
+      "en": "Fee Schedule"
+    },
+    "subtitle": {
+      "uz": "GEMS tomonidan belgilangan rasmiy to'lovlar",
+      "ru": "Официальные платежи, установленные GEMS",
+      "en": "Official fees set by GEMS"
+    },
+    "note": {
+      "uz": "To'lovlar har yili avtomatik 5% ga oshadi. Ikki diplom uchun bitta to'lov.",
+      "ru": "Стоимость ежегодно увеличивается на 5%. Один платёж за два диплома.",
+      "en": "Fees increase by 5% annually. One payment for both degrees."
+    },
+    "cols": {
+      "uz": [
+        "Daraja",
+        "1-yil",
+        "2-yil",
+        "3-yil",
+        "4-yil"
+      ],
+      "ru": [
+        "Уровень",
+        "1-й год",
+        "2-й год",
+        "3-й год",
+        "4-й год"
+      ],
+      "en": [
+        "Level",
+        "Year 1",
+        "Year 2",
+        "Year 3",
+        "Year 4"
+      ]
+    },
+    "items": [
+      {
+        "level": {
+          "uz": "Bakalavr dasturlari",
+          "ru": "Бакалавриат",
+          "en": "Bachelor programs"
+        },
+        "y1": "$4,500",
+        "y2": "$4,725",
+        "y3": "$4,961",
+        "y4": "$5,209"
+      },
+      {
+        "level": {
+          "uz": "Magistratura",
+          "ru": "Магистратура",
+          "en": "Master's degree"
+        },
+        "y1": "$5,000",
+        "y2": "$5,250",
+        "y3": "$5,513",
+        "y4": "$5,788"
+      },
+      {
+        "level": {
+          "uz": "IFP (Jamg'arma)",
+          "ru": "IFP (Фундаментальный)",
+          "en": "IFP (Foundation)"
+        },
+        "y1": "$4,500",
+        "y2": "$4,725",
+        "y3": "—",
+        "y4": "—"
+      }
+    ]
+  },
+  "about": {
+    "tag": {
+      "uz": "Hamkorlik haqida",
+      "ru": "О партнёрстве",
+      "en": "About Partnership"
+    },
+    "title": {
+      "uz": "O'zbekistonda Britaniya diplomi",
+      "ru": "Британский диплом в Узбекистане",
+      "en": "British Degree in Uzbekistan"
+    },
+    "subtitle": {
+      "uz": "GEMS va University of Greenwich strategik hamkorligi asosida ISFT Samarqand filialida ikki darajali ta'lim dasturi ishga tushdi.",
+      "ru": "На основе стратегического партнёрства GEMS и Университета Гринвич в филиале ISFT Самарканд запущена программа двойного диплома.",
+      "en": "Based on the strategic partnership between GEMS and University of Greenwich, a dual degree program has been launched at ISFT Samarkand branch."
+    },
+    "paragraphs": [
+      {
+        "uz": "Mazkur hamkorlik doirasida talabalar O'zbekistonda — ISFT Samarqand filialida tahsil olgan holda, bir vaqtning o'zida ikkita rasmiy diplom — ISFT diplomi va Buyuk Britaniyaning University of Greenwich diplomi — ga ega bo'ladilar.",
+        "ru": "В рамках данного партнёрства студенты, обучаясь в Узбекистане в филиале ISFT Самарканд, одновременно получают два официальных диплома — диплом ISFT и диплом Университета Гринвич (Великобритания).",
+        "en": "Within this partnership, students studying in Uzbekistan at ISFT Samarkand branch simultaneously receive two official degrees — an ISFT diploma and a University of Greenwich (UK) diploma."
+      },
+      {
+        "uz": "GEMS barcha akademik masalalar, sifatni ta'minlash, qabul mezonlari va nazorati, dastur mazmuni, baholash, o'qituvchilar tarkibi va Buyuk Britaniya me'yoriy hujjatlariga rioya qilish bo'yicha yetakchilikni o'z zimmasiga oladi.",
+        "ru": "GEMS берёт на себя ответственность за все академические вопросы, обеспечение качества, критерии и контроль приёма, содержание программ, оценивание, состав преподавателей и соответствие британским нормативным документам.",
+        "en": "GEMS takes full responsibility for all academic matters, quality assurance, admission criteria and oversight, program content, assessment, faculty composition and compliance with UK regulatory documents."
+      },
+      {
+        "uz": "ISFT esa marketing, mahalliy litsenziyalash, jismoniy infratuzilma, inshootlar, viza va immigratsiya yordami hamda O'zbekiston qonunchiligiga muvofiqlikni ta'minlaydi.",
+        "ru": "ISFT обеспечивает маркетинг, местное лицензирование, физическую инфраструктуру, помещения, помощь в оформлении виз и иммиграции, а также соответствие законодательству Узбекистана.",
+        "en": "ISFT ensures marketing, local licensing, physical infrastructure, premises, visa and immigration assistance, and compliance with Uzbekistan legislation."
+      }
+    ],
+    "uniName": "University of Greenwich",
+    "uniDesc": {
+      "uz": "1890-yilda tashkil etilgan London va Kent hududlarida joylashgan yetakchi Britaniya davlat tadqiqot universiteti. GEMS orqali litsenziyalangan xalqaro hamkorlik dasturi.",
+      "ru": "Ведущий британский государственный исследовательский университет, основанный в 1890 году, расположенный в Лондоне и Кенте. Международная партнёрская программа, лицензированная через GEMS.",
+      "en": "A leading British public research university founded in 1890, located in London and Kent. International partnership program licensed through GEMS."
+    },
+    "uniBadge": {
+      "uz": "135+ yillik tarix",
+      "ru": "135+ лет истории",
+      "en": "135+ years of history"
+    },
+    "sourceUrl": "https://sam.isft.uz/uz/events/195",
+    "sourceDate": {
+      "uz": "06 May 2026",
+      "ru": "06 Мая 2026",
+      "en": "06 May 2026"
+    },
+    "images": [
+      "https://sam-head.isft.uz/uploads/%2Fnews%2FDSC01680.JPG_1777966854.jpg",
+      "https://sam-head.isft.uz/uploads/%2Fnews%2FDSC01681.JPG_1777966854.jpg",
+      "https://sam-head.isft.uz/uploads/%2Fnews%2FDSC01682.JPG_1777966854.jpg",
+      "https://sam-head.isft.uz/uploads/%2Fnews%2FDSC01683.JPG_1777966854.jpg",
+      "https://sam-head.isft.uz/uploads/%2Fnews%2FDSC01684.JPG_1777966854.jpg",
+      "https://sam-head.isft.uz/uploads/%2Fnews%2FDSC01685.JPG_1777966854.jpg"
+    ]
+  },
+  "steps": {
+    "title": {
+      "uz": "Dual Degree — Qadamma-qadam",
+      "ru": "Dual Degree — Шаг за шагом",
+      "en": "Dual Degree — Step by Step"
+    },
+    "items": [
+      {
+        "num": "01",
+        "title": {
+          "uz": "Ro'yxatdan o'ting",
+          "ru": "Зарегистрируйтесь",
+          "en": "Register"
+        },
+        "desc": {
+          "uz": "ISFT Samarqand filialiga onlayn ariza topshiring. GEMS qabul mezonlarini belgilaydi va barcha rasmiy takliflarni tasdiqlaydi.",
+          "ru": "Подайте онлайн-заявку в филиал ISFT Самарканд. GEMS определяет критерии приёма и утверждает все официальные предложения.",
+          "en": "Submit an online application to ISFT Samarkand branch. GEMS sets admission criteria and approves all official offers."
+        }
+      },
+      {
+        "num": "02",
+        "title": {
+          "uz": "Samarqandda tahsil oling",
+          "ru": "Учитесь в Самарканде",
+          "en": "Study in Samarkand"
+        },
+        "desc": {
+          "uz": "Barcha ta'lim ISFT kampusida — o'z shahringizda. GEMS o'qituvchilari va Britaniya professorlari bevosita dars beradi.",
+          "ru": "Всё обучение проходит в кампусе ISFT — в вашем городе. Преподаватели GEMS и британские профессора ведут занятия напрямую.",
+          "en": "All education is at ISFT campus — in your own city. GEMS teachers and British professors teach directly."
+        }
+      },
+      {
+        "num": "03",
+        "title": {
+          "uz": "Xalqaro standartda bilim",
+          "ru": "Знания мирового уровня",
+          "en": "International standard knowledge"
+        },
+        "desc": {
+          "uz": "O'quv dasturlari University of Greenwich xalqaro standartlari asosida. Baholash va attestatsiya GEMS tomonidan amalga oshiriladi.",
+          "ru": "Учебные программы основаны на международных стандартах Университета Гринвич. Оценка и аттестация проводятся GEMS.",
+          "en": "Curricula based on University of Greenwich international standards. Assessment and attestation carried out by GEMS."
+        }
+      },
+      {
+        "num": "04",
+        "title": {
+          "uz": "Ikki diplom qo'lga kiriting",
+          "ru": "Получите два диплома",
+          "en": "Receive two degrees"
+        },
+        "desc": {
+          "uz": "Bitirganingizda ISFT diplomi (O'zbekiston) va University of Greenwich diplomi (Buyuk Britaniya) beriladi — ikkisi ham rasmiy tan olinadi.",
+          "ru": "По окончании выдаётся диплом ISFT (Узбекистан) и диплом Университета Гринвич (Великобритания) — оба официально признаны.",
+          "en": "Upon graduation, an ISFT diploma (Uzbekistan) and University of Greenwich diploma (UK) are awarded — both officially recognized."
+        }
+      }
+    ]
+  },
+  "advantages": {
+    "title": {
+      "uz": "Nima uchun Dual Degree?",
+      "ru": "Почему Dual Degree?",
+      "en": "Why Dual Degree?"
+    },
+    "items": [
+      {
+        "icon": "🎓",
+        "title": {
+          "uz": "Ikki rasmiy diplom",
+          "ru": "Два официальных диплома",
+          "en": "Two official degrees"
+        },
+        "desc": {
+          "uz": "ISFT va University of Greenwich — bitta o'qish jarayonida ikkala diplom.",
+          "ru": "ISFT и Университет Гринвич — оба диплома в одном процессе обучения.",
+          "en": "ISFT and University of Greenwich — both degrees in one study process."
+        }
+      },
+      {
+        "icon": "🌍",
+        "title": {
+          "uz": "Xorijga chiqmay",
+          "ru": "Без выезда за рубеж",
+          "en": "Without going abroad"
+        },
+        "desc": {
+          "uz": "Barcha ta'lim Samarqandda — o'z oilang yonida, qulay muhitda.",
+          "ru": "Всё обучение в Самарканде — рядом с семьёй, в комфортной обстановке.",
+          "en": "All education in Samarkand — near family, in a comfortable environment."
+        }
+      },
+      {
+        "icon": "👨‍🏫",
+        "title": {
+          "uz": "GEMS akademik nazorat",
+          "ru": "Академический контроль GEMS",
+          "en": "GEMS academic oversight"
+        },
+        "desc": {
+          "uz": "GEMS barcha akademik sifat, qabul va baholash uchun to'liq javobgar.",
+          "ru": "GEMS полностью отвечает за академическое качество, приём и оценивание.",
+          "en": "GEMS is fully responsible for academic quality, admission and assessment."
+        }
+      },
+      {
+        "icon": "💼",
+        "title": {
+          "uz": "Global karyera imkoni",
+          "ru": "Глобальные карьерные возможности",
+          "en": "Global career opportunities"
+        },
+        "desc": {
+          "uz": "Britaniya diplomi bilan dunyo bo'ylab ish topish ancha osonlashadi.",
+          "ru": "С британским дипломом найти работу по всему миру значительно проще.",
+          "en": "With a British degree, finding work worldwide becomes much easier."
+        }
+      },
+      {
+        "icon": "💰",
+        "title": {
+          "uz": "Bir to'lov — ikki diplom",
+          "ru": "Один платёж — два диплома",
+          "en": "One payment — two degrees"
+        },
+        "desc": {
+          "uz": "GEMS to'lovlari ikkalasi diplom uchun umumiy. ISFT 25% ulush oladi.",
+          "ru": "Платежи GEMS общие для обоих дипломов. ISFT получает 25% долю.",
+          "en": "GEMS fees cover both degrees. ISFT receives a 25% share."
+        }
+      },
+      {
+        "icon": "🏆",
+        "title": {
+          "uz": "135+ yillik nufuz",
+          "ru": "135+ лет престижа",
+          "en": "135+ years of prestige"
+        },
+        "desc": {
+          "uz": "University of Greenwich — 1890-yildan buyon xalqaro tan olingan universitetdir.",
+          "ru": "Университет Гринвич — международно признанный университет с 1890 года.",
+          "en": "University of Greenwich — internationally recognized university since 1890."
+        }
+      }
+    ]
+  },
+  "stats": {
+    "title": {
+      "uz": "ISFT Raqamlarda",
+      "ru": "ISFT в цифрах",
+      "en": "ISFT in Numbers"
+    },
+    "subtitle": {
+      "uz": "Bizning yutuqlarimiz",
+      "ru": "Наши достижения",
+      "en": "Our achievements"
+    },
+    "items": [
+      {
+        "icon": "fa-users",
+        "number": "4700+",
+        "label": {
+          "uz": "Bitiruvchilar",
+          "ru": "Выпускников",
+          "en": "Graduates"
+        }
+      },
+      {
+        "icon": "fa-book-open",
+        "number": "7",
+        "label": {
+          "uz": "Dual Degree dastur",
+          "ru": "Dual Degree программ",
+          "en": "Dual Degree programs"
+        }
+      },
+      {
+        "icon": "fa-handshake",
+        "number": "2",
+        "label": {
+          "uz": "Xalqaro diplom",
+          "ru": "Международных диплома",
+          "en": "International degrees"
+        }
+      },
+      {
+        "icon": "fa-calendar-check",
+        "number": "1890",
+        "label": {
+          "uz": "Greenwich asos yili",
+          "ru": "Год основания Greenwich",
+          "en": "Greenwich founded"
+        }
+      }
+    ]
+  },
+  "contact": {
+    "title": {
+      "uz": "Biz Bilan Bog'laning",
+      "ru": "Свяжитесь с нами",
+      "en": "Contact Us"
+    },
+    "subtitle": {
+      "uz": "Savollaringizga javob berishga tayyormiz",
+      "ru": "Готовы ответить на ваши вопросы",
+      "en": "Ready to answer your questions"
+    }
+  },
+  "cta": {
+    "title": {
+      "uz": "Kelajagingizni Bugun Boshlang!",
+      "ru": "Начните Своё Будущее Сегодня!",
+      "en": "Start Your Future Today!"
+    },
+    "text": {
+      "uz": "ISFT × University of Greenwich Dual Degree dasturiga hoziranoq ro'yxatdan o'ting va ikki xalqaro diplom sohibiga aylaning. O'zbekistonda — Britaniya sifatida ta'lim!",
+      "ru": "Зарегистрируйтесь прямо сейчас на программу Dual Degree ISFT × Университет Гринвич и станьте обладателем двух международных дипломов. Британское качество образования — в Узбекистане!",
+      "en": "Register now for the ISFT × University of Greenwich Dual Degree program and become the holder of two international degrees. British quality education — in Uzbekistan!"
+    },
+    "btn1": {
+      "uz": "Onlayn ariza topshirish",
+      "ru": "Подать заявку онлайн",
+      "en": "Apply Online"
+    },
+    "btn2": "55 518-70-70"
+  },
+  "social": {
+    "title": {
+      "uz": "Biz Bilan Bog'laning",
+      "ru": "Свяжитесь с нами",
+      "en": "Connect With Us"
+    },
+    "subtitle": {
+      "uz": "Ijtimoiy tarmoqlarda va rasmiy saytimizda",
+      "ru": "В социальных сетях и на официальном сайте",
+      "en": "On social media and our official website"
+    },
+    "mainBtnText": {
+      "uz": "Asosiy Saytga O'tish",
+      "ru": "На Главный Сайт",
+      "en": "Visit Main Site"
+    },
+    "openText": {
+      "uz": "Ochish",
+      "ru": "Открыть",
+      "en": "Open"
+    },
+    "items": [
+      {
+        "id": "facebook",
+        "icon": "fab fa-facebook-f",
+        "name": "Facebook",
+        "url": "https://www.facebook.com/p/ISFT-Samarqand-61569613530481/"
+      },
+      {
+        "id": "instagram",
+        "icon": "fab fa-instagram",
+        "name": "Instagram",
+        "url": "https://www.instagram.com/isft_samarqand/"
+      },
+      {
+        "id": "telegram",
+        "icon": "fab fa-telegram-plane",
+        "name": "Telegram",
+        "url": "https://t.me/samarqand_isft"
+      },
+      {
+        "id": "youtube",
+        "icon": "fab fa-youtube",
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@isft_samarqand"
+      },
+      {
+        "id": "linkedin",
+        "icon": "fab fa-linkedin-in",
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/company/linkedin.com-company-isft-institute/"
+      }
+    ]
+  },
+  "footer": {
+    "desc": {
+      "uz": "International School of Finance Technology — O'zbekistonning yetakchi moliya va texnologiya instituti. GEMS & University of Greenwich rasmiy hamkori. Samarqand filiali.",
+      "ru": "International School of Finance Technology — ведущий финансово-технологический институт Узбекистана. Официальный партнёр GEMS и Университета Гринвич. Самаркандский филиал.",
+      "en": "International School of Finance Technology — Uzbekistan's leading finance and technology institute. Official partner of GEMS & University of Greenwich. Samarkand branch."
+    },
+    "quickLinksTitle": {
+      "uz": "Tezkor Havolalar",
+      "ru": "Быстрые ссылки",
+      "en": "Quick Links"
+    },
+    "programsTitle": {
+      "uz": "Ta'lim Dasturlari",
+      "ru": "Учебные программы",
+      "en": "Programs"
+    },
+    "contactTitle": {
+      "uz": "Aloqa Ma'lumotlari",
+      "ru": "Контактная информация",
+      "en": "Contact Info"
+    },
+    "visitSite": {
+      "uz": "Asosiy saytga o'tish",
+      "ru": "На главный сайт",
+      "en": "Visit main website"
+    },
+    "rights": {
+      "uz": "Barcha huquqlar himoyalangan.",
+      "ru": "Все права защищены.",
+      "en": "All rights reserved."
+    },
+    "privacy": {
+      "uz": "Maxfiylik siyosati",
+      "ru": "Политика конфиденциальности",
+      "en": "Privacy Policy"
+    },
+    "terms": {
+      "uz": "Foydalanish shartlari",
+      "ru": "Условия использования",
+      "en": "Terms of Use"
+    },
+    "quickLinks": [
+      {
+        "label": {
+          "uz": "Biz haqimizda",
+          "ru": "О нас",
+          "en": "About Us"
+        },
+        "url": "https://sam.isft.uz/uz/about"
+      },
+      {
+        "label": {
+          "uz": "Abituriyentlarga",
+          "ru": "Абитуриентам",
+          "en": "For Applicants"
+        },
+        "url": "https://sam.isft.uz/uz/applicants"
+      },
+      {
+        "label": {
+          "uz": "Talabalarga",
+          "ru": "Студентам",
+          "en": "For Students"
+        },
+        "url": "https://sam.isft.uz/uz/students"
+      },
+      {
+        "label": {
+          "uz": "Yangiliklar",
+          "ru": "Новости",
+          "en": "News"
+        },
+        "url": "https://sam.isft.uz/uz/news"
+      },
+      {
+        "label": {
+          "uz": "Savol-Javob",
+          "ru": "Вопрос-Ответ",
+          "en": "FAQ"
+        },
+        "url": "https://sam.isft.uz/uz/faq"
+      },
+      {
+        "label": {
+          "uz": "Kutubxona",
+          "ru": "Библиотека",
+          "en": "Library"
+        },
+        "url": "https://sam.isft.uz/uz/students/library"
+      }
+    ],
+    "programs": [
+      {
+        "label": {
+          "uz": "Bakalavriat",
+          "ru": "Бакалавриат",
+          "en": "Bachelor"
+        },
+        "url": "https://sam.isft.uz/uz/applicants"
+      },
+      {
+        "label": {
+          "uz": "Magistratura",
+          "ru": "Магистратура",
+          "en": "Master's"
+        },
+        "url": "https://sam.isft.uz/uz/applicants"
+      },
+      {
+        "label": {
+          "uz": "Doktorantura",
+          "ru": "Докторантура",
+          "en": "Doctoral"
+        },
+        "url": "https://sam.isft.uz/uz/activity/scientific/doctoral"
+      },
+      {
+        "label": {
+          "uz": "ACCA Dasturi",
+          "ru": "Программа ACCA",
+          "en": "ACCA Program"
+        },
+        "url": "https://sam.isft.uz/uz/about/acca"
+      },
+      {
+        "label": {
+          "uz": "Xalqaro Dasturlar",
+          "ru": "Международные программы",
+          "en": "International Programs"
+        },
+        "url": "https://sam.isft.uz/uz/activity/international"
+      }
+    ]
+  },
+  "admin": {
+    "password": "isft2026admin"
+  }
+}
