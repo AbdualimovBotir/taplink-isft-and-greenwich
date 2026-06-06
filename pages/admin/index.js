@@ -277,7 +277,7 @@ export default function AdminPage() {
           </button>
           <div style={{ marginTop: 22, padding: '11px 14px', background: '#f8f8f8', borderRadius: 10, display: 'flex', gap: 8 }}>
             <span style={{ fontSize: 17 }}>💡</span>
-            <p style={{ fontSize: 12, color: '#666', lineHeight: 1.6 }}>Default parol: <strong style={{ color: '#C1272D' }}>isft2026admin</strong><br /><span style={{ color: '#999' }}>Xavfsizlik uchun parolni o'zgartiring</span></p>
+            <p style={{ fontSize: 12, color: '#666', lineHeight: 1.6 }}>Default parol: <strong style={{ color: '#C1272D' }}></strong><br /><span style={{ color: '#999' }}>Xavfsizlik uchun parolni o'zgartiring</span></p>
           </div>
         </div>
       </div>
